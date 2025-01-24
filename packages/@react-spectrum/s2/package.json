@@ -146,7 +146,7 @@
     "@react-types/table": "^3.10.4",
     "@react-types/textfield": "^3.11.0",
     "csstype": "^3.0.2",
-    "react-aria": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/react-aria?issue-7660",
+    "react-aria": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/react-aria?issue-7660-demo",
     "react-aria-components": "^1.6.0"
   },
   "peerDependencies": {

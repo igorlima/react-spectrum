@@ -68,7 +68,7 @@
     "@react-types/table": "^3.10.4",
     "@swc/helpers": "^0.5.0",
     "client-only": "^0.0.1",
-    "react-aria": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/react-aria?issue-7660",
+    "react-aria": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/react-aria?issue-7660-demo",
     "react-stately": "^3.35.0",
     "use-sync-external-store": "^1.4.0"
   },
