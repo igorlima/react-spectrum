@@ -38,7 +38,7 @@
   "dependencies": {
     "@react-aria/i18n": "^3.12.5",
     "@react-aria/interactions": "^3.23.0",
-    "@react-aria/select": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/%40react-aria/select?issue-7660",
+    "@react-aria/select": "file:../../@react-aria/select",
     "@react-aria/utils": "^3.27.0",
     "@react-spectrum/button": "^3.16.10",
     "@react-spectrum/form": "^3.7.11",

@@ -62,7 +62,7 @@
     "@react-aria/progress": "^3.4.19",
     "@react-aria/radio": "^3.10.11",
     "@react-aria/searchfield": "^3.8.0",
-    "@react-aria/select": "https://gitpkg.vercel.app/igorlima/react-spectrum/packages/%40react-aria/select?issue-7660",
+    "@react-aria/select": "file:../@react-aria/select",
     "@react-aria/selection": "^3.22.0",
     "@react-aria/separator": "^3.4.5",
     "@react-aria/slider": "^3.7.15",
